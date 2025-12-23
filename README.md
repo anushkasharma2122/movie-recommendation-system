@@ -7,10 +7,11 @@ A full-stack Machine Learning application featuring a clean backend architecture
 ![Movie Recommendation System](https://img.shields.io/badge/ML-Recommendation%20System-purple?style=for-the-badge)
 
 <img width="2632" height="1232" alt="image" src="https://github.com/user-attachments/assets/d810f5ef-37ab-499c-b34c-e2dded99b26a" />
-<img width="2632" height="1232" alt="image" src="https://github.com/user-attachments/assets/72db8931-8e52-4fcb-a198-e5753df82d8f" />
-<img width="2632" height="1232" alt="image" src="https://github.com/user-attachments/assets/d9dfff1a-07f2-4f7d-89fc-8430c0d124d8" />
-<img width="2632" height="1232" alt="image" src="https://github.com/user-attachments/assets/f4c9e5b9-dd50-42d9-a786-f38449f774b7" />
-<img width="2632" height="1232" alt="image" src="https://github.com/user-attachments/assets/a7525cc9-5692-4ddc-9dc9-3d13a8c32353" />
+<img width="1316" height="616" alt="2" src="https://github.com/user-attachments/assets/552069f1-ce9e-4e43-b684-dd8184e6f2e1" />
+<img width="1316" height="616" alt="3" src="https://github.com/user-attachments/assets/f2d4301b-92b4-4522-8ac2-47e10da64ac7" />
+<img width="1316" height="537" alt="4" src="https://github.com/user-attachments/assets/2c160cd1-86f3-451a-a89a-3f402a12f6c8" />
+<img width="1316" height="669" alt="5" src="https://github.com/user-attachments/assets/4a823651-c864-4898-b767-a96f13107e8d" />
+
 
 
 ---
